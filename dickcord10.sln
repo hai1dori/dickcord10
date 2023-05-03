@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dickcord10", "dickcord10\dickcord10.csproj", "{971A9464-1BFE-4C6B-9206-52A169246562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dickcordServer2", "dickcordServer2\dickcordServer2.csproj", "{8F6F2DCB-EBB3-488E-BBFA-557C3B0C0C1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{971A9464-1BFE-4C6B-9206-52A169246562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971A9464-1BFE-4C6B-9206-52A169246562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971A9464-1BFE-4C6B-9206-52A169246562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971A9464-1BFE-4C6B-9206-52A169246562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F6F2DCB-EBB3-488E-BBFA-557C3B0C0C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6F2DCB-EBB3-488E-BBFA-557C3B0C0C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6F2DCB-EBB3-488E-BBFA-557C3B0C0C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6F2DCB-EBB3-488E-BBFA-557C3B0C0C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5C4B788-B9B1-4985-B600-DF0368808DAE}
+	EndGlobalSection
+EndGlobal
